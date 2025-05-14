@@ -1,0 +1,78 @@
+Entity,Year,Wheat | 00002511 || Waste in supply chain | 005123 || tonnes
+Africa,2012,3649000
+Africa,2013,3859000
+Africa,2014,4370000
+Africa,2015,4123000
+Africa,2016,4397000
+Africa,2017,3905000
+Africa,2018,3985000
+Africa,2019,4503000
+Africa,2020,4612000
+Africa,2021,3672000
+Africa,2022,4505000
+Asia,2012,13403000
+Asia,2013,13734000
+Asia,2014,15226000
+Asia,2015,15376000
+Asia,2016,15874000
+Asia,2017,15816000
+Asia,2018,15651000
+Asia,2019,16830000
+Asia,2020,17275000
+Asia,2021,16823000
+Asia,2022,16554000
+Europe,2012,3504000
+Europe,2013,3799000
+Europe,2014,3730000
+Europe,2015,3664000
+Europe,2016,3613000
+Europe,2017,3961000
+Europe,2018,3412000
+Europe,2019,4147000
+Europe,2020,3851000
+Europe,2021,4057000
+Europe,2022,4106000
+High-income countries,2012,3959000
+High-income countries,2013,4002000
+High-income countries,2014,6472000
+High-income countries,2015,6352000
+High-income countries,2016,6680000
+High-income countries,2017,6178000
+High-income countries,2018,5832000
+High-income countries,2019,6565000
+High-income countries,2020,6191000
+High-income countries,2021,6987000
+High-income countries,2022,7363000
+Low-income countries,2012,1329000
+Low-income countries,2013,1342000
+Low-income countries,2014,1304000
+Low-income countries,2015,1315000
+Low-income countries,2016,1205000
+Low-income countries,2017,1185000
+Low-income countries,2018,1023000
+Low-income countries,2019,1332000
+Low-income countries,2020,1368000
+Low-income countries,2021,1240000
+Low-income countries,2022,1184000
+Turkey,2012,2052000
+Turkey,2013,2249000
+Turkey,2014,2027000
+Turkey,2015,2411000
+Turkey,2016,2197000
+Turkey,2017,2293000
+Turkey,2018,2133000
+Turkey,2019,2499000
+Turkey,2020,2598000
+Turkey,2021,2275000
+Turkey,2022,2458000
+World,2012,22034000
+World,2013,22988000
+World,2014,27386000
+World,2015,27247000
+World,2016,28296000
+World,2017,27404000
+World,2018,26771000
+World,2019,29363000
+World,2020,29440000
+World,2021,28724000
+World,2022,29612000
